@@ -3,13 +3,13 @@
 @media screen and (min-width: 728px) and (max-width: 992px) {
     .container {
         width: 90vw;
-        height: 290px;
+        height: 400px;
     }
 }
 
 @media screen and (min-width: 992px) { 
     .container {
-        width: 950px;
+        width: 70vw;
         height: 350px;
     }
 }
